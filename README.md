@@ -23,9 +23,7 @@ Senior QA Engineer with 15+ years of commercial experience in software testing a
 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![ApiDog](https://img.shields.io/badge/-ApiDog-FF6600?style=flat)
-
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
 
 **Test Management & Bug Tracking**
@@ -42,7 +40,6 @@ Senior QA Engineer with 15+ years of commercial experience in software testing a
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Databases**
@@ -51,7 +48,6 @@ Senior QA Engineer with 15+ years of commercial experience in software testing a
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
@@ -107,11 +103,6 @@ Senior QA Engineer with 15+ years of commercial experience in software testing a
 - [Portnov Computer School](https://portnov.com) (2011)
 - [JavaRush](https://javarush.com) (2021)
 - [RedRover School](https://redrover.school) (2022–2025)
-
-
-## 🌐 Languages
-
-🇬🇧 English • 🇷🇺 Russian (native)
 
 ## 📫 Let's Connect
 
