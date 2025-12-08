@@ -108,5 +108,3 @@ Senior QA Engineer with 15+ years of commercial experience in software testing a
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/roman-zemlianykh-9908914b/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:skynsk@gmail.com)
-
----
