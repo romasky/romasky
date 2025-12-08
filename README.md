@@ -110,4 +110,3 @@ Senior QA Engineer with 15+ years of commercial experience in software testing a
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:skynsk@gmail.com)
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romasky&theme=dark)
