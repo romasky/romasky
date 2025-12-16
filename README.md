@@ -1,6 +1,6 @@
 ## Hello, I'm Roman 👋
 
-**QA Lead | Automation Engineer | 15+ Years in Quality Assurance**
+**QA Lead | Automation Engineer | 15+ Years in Quality Assurance | AI Enthusiast**
 
 Senior QA Engineer with 15+ years of commercial experience in software testing and quality assurance. Proficient in building automation frameworks using Java and JavaScript, with deep knowledge of SDLC and testing methodologies. Currently leading QA team and driving process improvements in game development projects.
 
